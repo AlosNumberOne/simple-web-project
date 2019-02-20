@@ -1,0 +1,26 @@
+h2{
+	color:darkturquoise;
+}
+ul{
+	color:#0CF552; 
+}
+body{
+	background:url(https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg);
+	background-repeat:no-repeat;
+}
+#hello2{
+	background-color:red;
+}
+.hello4{
+	background-color: yellow;
+}
+
+input[type="placehold"]{
+	background:gray;
+}
+h1{
+	text-transform: uppercase;
+	font-size:10px;
+	color:red;
+	text-align:center;
+}
